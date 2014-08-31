@@ -1,10 +1,12 @@
 {
     "jslint.options": {
-        "vars": true,
+        "devel":    true,
+        "maxerr":   50,
+        "nomen":    true,
         "plusplus": true,
-        "devel": true,
-        "nomen": true,
-        "maxerr": 50
+        "todo":     true,
+        "unparam":  true,
+        "vars":     true
     },
     "defaultExtension": "js",
     "path": {
